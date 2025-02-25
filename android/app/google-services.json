@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449116062250",
+    "project_id": "mazamaharashtrianapp",
+    "storage_bucket": "mazamaharashtrianapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449116062250:android:630aba65496c1e27c8b953",
+        "android_client_info": {
+          "package_name": "com.example.receipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449116062250-6e6qm0149lpsivofh1lasnpolih0kqt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHJ9lOqjNF4uJ1MPpFheR4XD-CJLhghU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449116062250-6e6qm0149lpsivofh1lasnpolih0kqt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
